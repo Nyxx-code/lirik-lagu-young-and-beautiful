@@ -1,0 +1,31 @@
+.judul{
+    color: #003366;
+}
+
+.penulis{
+    color: #333333 ;
+}
+
+.subjudul{
+    color: maroon;
+}
+
+#lirik{
+    color: black;
+}
+
+#terjemahan{
+    color: #006400 ;
+}
+
+.lirik-makna{
+    color: #006400;
+}
+
+ul p{
+    color: #3498db;
+}
+
+ul li{
+    font-weight: bold;
+}
